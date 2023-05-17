@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="emp.css" type="text/css"?>
+<?xml-stylesheet href="employee.xsl" type="text/xsl"?> 
+<employees>
+    <info>
+        <name>Srushti Bhadane</name>
+        <age>20</age>
+        <salary>$100000</salary>
+        <address>Pune</address>
+    </info>
+    <info>
+        <name>Omkar Jore</name>
+        <age>21</age>
+        <salary>$100000</salary>
+        <address>Mumbai</address>
+    </info>
+    <info>
+        <name>Tejal Tajane</name>
+        <age>20</age>
+        <salary>$100000</salary>
+        <address>Delhi</address>
+    </info>
+    <info>
+        <name>Madhuri Bangar</name>
+        <age>21</age>
+        <salary>$100000</salary>
+        <address>Chennai</address>
+    </info>
+    <info>
+        <name>Manish Bhamare</name>
+        <age>22</age>
+        <salary>$100000</salary>
+        <address>Banglore</address>
+    </info>
+    <info>
+        <name>Akshra Pandit</name>
+        <age>23</age>
+        <salary>$100000</salary>
+        <address>Hyderabad</address>
+    </info>
+</employees>
